@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">terceraaplicacion2</string>
+    <string name="botonaceptar">guardar</string>
+    <string name="botonclave">aceptar</string>
+    <string name="botoncerrar">cerrar</string>
+    <string name="botonsiguiente">siguiente</string>
+
+
+
+
+
+
+
+
+
+
 </resources>

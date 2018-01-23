@@ -8,4 +8,22 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <style name="estiloBotonGuardar">
+    <itemm name="android:background">@color/colorfondo </itemm    >
+        <item name="android:textColor">@color/colorPrimary</item>
+        <item name="android:gravity">right</item>
+    </style>
+
+    <style name="Stylenuevo">
+<item name="android:textColor">@color/colorgris</item>
+        <item name="android:padding">@dimen/paddingreal</item>
+        <item name="android:background">@color/colorrojo</item>
+        <item name="android:button">@string/botonclave</item>
+
+
+
+
+    </style>
+
+
 </resources>

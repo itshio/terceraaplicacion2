@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <dimen name="paddingGeneral">16dp</dimen>
+    <dimen name="textsizeboton">25dp</dimen>
+    <dimen name="paddingreal">15dp</dimen>
+    <dimen name="textdimension">25dp</dimen>
+    <dimen name="imagen">115dp</dimen>
+
+
+
+</resources>
